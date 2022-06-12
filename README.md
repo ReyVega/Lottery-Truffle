@@ -12,7 +12,7 @@ This repo includes the backend for the lottery-application, which is used to dep
 7. Truffle - Framework for deploying smart-contracts
 
 ## Smart Contract Structure
-[Lottery.sol](https://github.com/ReyVega/Lottery/blob/main/blockchain/contracts/Lottery.sol)
+[Lottery.sol](https://github.com/ReyVega/Lottery-Truffle/blob/main/contracts/Lottery.sol)
 
 ## Important things to take into consideration
 1. Create a .env file in the project which contains your Ethereum address and Infura's API Key (Infura Rinkeby)
